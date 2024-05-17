@@ -1,6 +1,6 @@
 # LLM Evaluators Recognize and Favor Their Own Generations
 
-Read the paper here:
+Read the paper here: http://tiny.cc/llm_self_recognition
 
 ## Setup
 
